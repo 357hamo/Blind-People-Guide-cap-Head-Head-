@@ -1,18 +1,18 @@
 ## Blind-People-Guide-cap-Head-Head-
-The project aims to develop a Smart AI-Based Virtual Eye and Assistant for the visually impaired and the blind, leveraging aural feedback to provide a unique and effective means for individuals with visual impairments to "see" their surroundings. The system incorporates advanced artificial intelligence (AI) techniques to enable real-time object recognition, currency identification, fire detection, color recognition, face recognition, and emotion recognition, QR\barcode decoder, as well as text reading capabilities using Optical Character Recognition (OCR).
+This project aims to develop a Smart AI-Based Virtual Eye and Assistant for the visually impaired and the blind, leveraging aural feedback to provide a unique and effective means for individuals with visual impairments to "see" their surroundings. The system incorporates advanced artificial intelligence (AI) techniques to enable real-time object recognition, currency identification, fire detection, color recognition, face recognition, and emotion recognition, QR\barcode decoder, as well as text reading capabilities using Optical Character Recognition (OCR).
 
 ## photo for Guide cap Head Head
-<p align="center"><img src='' width="500"/>
+<p align="center"><"https://github.com/357hamo/Blind-People-Guide-cap-Head-Head-/blob/main/Hardware%20Design/Hardware%20design.jpg" src='' width="500"/>
 
 ## Steps the run the code in Raspberry Pi 4 Model B
-1-start the pc. 
-2-give power to the cap using the powerbank.
-3-connect the cap using the same network with the pc .
-4-open vnc on the pc .
-5-use vnc to display the cap os.
-6-open python on the cap.
-7-run the code of the cap.
-8-start using the project by giving the cap an input sound then listen to the output sound.
+1) start the pc. 
+2) give power to the cap using the powerbank.
+3) connect the cap using the same network with the pc .
+4) open vnc on the pc .
+5) use vnc to display the cap os.
+6) open python on the cap.
+7) run the code of the cap.
+8) start using the project by giving the cap an input sound then listen to the output sound.
 
 ## Hardware Requirements
 1. Head-Mounted Device: The core component of the “Head Head” system is a head-mounted device that visually impaired users can wear comfortably. 
@@ -37,40 +37,40 @@ The project aims to develop a Smart AI-Based Virtual Eye and Assistant for the v
 
 
 ## Software Installation Requirements
-1- Json library.
-2- random library.
-3- os library
-4- pytorch library
-5- opencv library
-6- numpy library.
-7- tensorflow library.
-8- keras library.
-9- pickle library.
-10- pyzbar library.
-11- ssl library.
-12- timit and time library.
-13- uuid library.
-14- easyocr library.
-15- nltk library.
-16- SpeechRecognition library.
-17- pyttsx3 library.
-18- playsound library version 1.2.2
-19- pyaudio library.
-20- datetime library.
-21- gtts library.
-22- translate library.
+1) Json library.
+2) random library.
+3) os library
+4) pytorch library
+5) opencv library
+6) numpy library.
+7) tensorflow library.
+8) keras library.
+9) pickle library.
+10) pyzbar library.
+11) ssl library.
+12) timit and time library.
+13) uuid library.
+14) easyocr library.
+15) nltk library.
+16) SpeechRecognition library.
+17) pyttsx3 library.
+18) playsound library version 1.2.2
+19) pyaudio library.
+20) datetime library.
+21) gtts library.
+22) translate library.
 
 
 ## the project objectives:
-1-recognise faces and store new faces
-2-recognise emotions of each face
-3-determine objects in front of the user
-4-detect fire
-5- recognise colors
-6-extract Qrcode and barcode contant
-7-read words or topics
-8-recognise the value of the currency
-9-turn all outputs into voice and take input as a voice
+1) recognise faces and store new faces
+2) recognise emotions of each face
+3) determine objects in front of the user
+4) detect fire
+5) recognise colors
+6) extract Qrcode and barcode contant
+7) read words or topics
+8) recognise the value of the currency
+9) turn all outputs into voice and take input as a voice
 
 ## Team members:
 1) Mohamed Adel Mahmoud Mohamed Gouda 
