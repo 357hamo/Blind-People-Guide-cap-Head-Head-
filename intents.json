@@ -1,0 +1,129 @@
+{ 
+"intents": 
+[
+ {
+  "tag":"greeting",
+  "patterns":[
+    "Hi",
+    "Hey",
+    "Hello",
+    "Good day",
+    "Good morning",
+    "Good evening",
+    "Good afternoon"
+  ],
+  "responses":[
+    "Hey",
+    "Hello, I'm in your service",
+    "Hi there, what can I do for you?",
+    "Hi there, how can I help?",
+    "Hi, what do you need?",
+    "Hi, give me your order please"
+  ] 
+ }, 
+ { 
+    "tag": "reading_ar",
+    "patterns":[
+    "Can you read book which infront of you in arabic?",
+    "I want to read the book arabic",
+    "I am reading the magazine and newspapers by arabic"]
+  },
+  { 
+    "tag": "reading_en",
+    "patterns":[
+    "Can you read book which infront of you in english?",
+    "I want to read the book english",
+    "I am reading the magazine and newspapers by english."]
+  },
+  {
+    "tag": "obstacles",
+    "patterns":[ 
+    "Is anyone here?",
+    "How can I avoid  obstacles?",
+    "Are you in obstacles in my way?",
+    "Is this the right path?",
+    "What the change can I do?",
+    "What is this?",
+    "Is this a person?",
+    "How can I solve this problem?"
+    ]
+  },
+  {
+    "tag": "fire",
+    "patterns":[ 
+    "Is there any dangers?",
+    "what kind of dangers?",
+    "Are there are fires?",
+    "which fire is?",
+    "where fire is?"
+    ]
+  },  
+  {
+    "tag":"Recognition",
+    "patterns":[
+    "Who is the person standing in front of me?",
+    "Who is speaking?",
+    "who is talking now ?",
+    "I want to  Know the person",
+    "Do you Know the person?",
+    "Can you Recognize the face",
+    "who is this person?",
+    "do you remember this one ?",
+    "recognise this person , please?",
+    "do you remember this person ?",
+    "I want to know who is this person?"
+    ]
+  },
+  {
+    "tag":"currency",
+    "patterns":[
+      "How much money in front of you?",
+      "Is there front money?",
+      "How much money is in my hand",
+      "How much money do I have",
+      "How much is that money",
+      "What is this money",
+      "How much money do I have left?"
+    ]
+  },
+  {
+    "tag":"code",
+    "patterns":[
+      "I want to recognise the barcode",
+      "I want to know the QR code"
+    ]
+  },
+  {
+    "tag":"describe",
+    "patterns":[
+      "can you describe the image?",
+      "I want to describe the infront image.",
+      "Describe what is around you.",
+      "characterize and depict and portray and term and demonstrate",
+      "Tell me about what you see."
+    ]
+  },
+  {
+    "tag":"color",
+    "patterns":[
+      "what color is it?",
+      "which colour is infront you?",
+      "what is this colour which is infront?",
+      "How many colors in shapes are there?",
+      "what color are the shapes?",
+      "what colours are like to?"
+    ]
+  },
+  {
+    "tag":"thank",
+    "patterns":[
+      "Thank you",
+      "Mylove"
+    ],
+    "responses":[
+      "I'm in your serves",
+      "If you need help, you will find me with you"
+    ]
+  }
+]
+}
