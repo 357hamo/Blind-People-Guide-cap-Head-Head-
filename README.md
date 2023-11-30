@@ -2,7 +2,7 @@
 This project aims to develop a Smart AI-Based Virtual Eye and Assistant for the visually impaired and the blind, leveraging aural feedback to provide a unique and effective means for individuals with visual impairments to "see" their surroundings. The system incorporates advanced artificial intelligence (AI) techniques to enable real-time object recognition, currency identification, fire detection, color recognition, face recognition, and emotion recognition, QR\barcode decoder, as well as text reading capabilities using Optical Character Recognition (OCR).
 
 ## photo for Guide cap Head Head
-<p align="center"><src='https://github.com/357hamo/Blind-People-Guide-cap-Head-Head-/blob/main/Hardware%20Design/Hardware%20design.jpg' width="1000"/>
+<p align="center"><img src='https://github.com/357hamo/Blind-People-Guide-cap-Head-Head-/blob/main/Hardware%20Design/Hardware%20design.jpg' width="1000"/>
 
 ## Steps the run the code in Raspberry Pi 4 Model B
 1) start the pc. 
